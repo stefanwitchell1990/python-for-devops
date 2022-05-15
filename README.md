@@ -21,6 +21,9 @@ Build out scaffold:
 * command-line-tool
 * Microservice
 
+1. Create a virtualenv `pyenv virtualenv 3.8.10 python_devops`
+2. Activate virtulenv `pyenv activate python_devops`
+
 ### AWS CloudShell
 ### AWS Cloud9
 
