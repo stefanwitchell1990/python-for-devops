@@ -1,4 +1,5 @@
-[![Test Multiple Python Versions](https://github.com/stefanwitchell1990/python-for-devops/actions/workflows/main.yml/badge.svg)](https://github.com/stefanwitchell1990/python-for-devops/actions/workflows/main.yml)# python-for-devops
+[![Test Multiple Python Versions](https://github.com/stefanwitchell1990/python-for-devops/actions/workflows/main.yml/badge.svg)](https://github.com/stefanwitchell1990/python-for-devops/actions/workflows/main.yml)
+# python-for-devops
 From Zero Repository for doing Python DevOps work.
 
 ## Create a project scaffold
