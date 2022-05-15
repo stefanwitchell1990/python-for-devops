@@ -24,6 +24,7 @@ Build out scaffold:
 
 1. Create a virtualenv `pyenv virtualenv 3.8.10 python_devops`
 2. Activate virtulenv `pyenv activate python_devops`
+3. Clone project then run `make all`
 
 ### AWS CloudShell
 ### AWS Cloud9
